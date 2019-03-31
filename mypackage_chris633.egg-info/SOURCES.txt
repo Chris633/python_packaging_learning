@@ -1,0 +1,11 @@
+README.md
+setup.py
+mypackage/__init__.py
+mypackage/__main__.py
+mypackage/util/__init__.py
+mypackage_chris633.egg-info/PKG-INFO
+mypackage_chris633.egg-info/SOURCES.txt
+mypackage_chris633.egg-info/dependency_links.txt
+mypackage_chris633.egg-info/entry_points.txt
+mypackage_chris633.egg-info/requires.txt
+mypackage_chris633.egg-info/top_level.txt
